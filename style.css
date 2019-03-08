@@ -1,0 +1,95 @@
+body {
+    font-family: 'Kalam', cursive;
+    background-color: rgb(190, 190, 190);
+    font-weight: 400;
+}
+.readme-wrapper, h2, p {
+    text-align: center;
+    font-style: bolder;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(255, 0, 0);
+    font-weight: 700;
+}
+.font-purple {
+    color: purple;
+}
+.font-blue {
+    color: blue;
+}
+.font-orange {
+    color: orangered;
+}
+.font-red {
+    color: red;
+}
+span {
+    font-weight: 900;
+}
+.boxes {
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid lime;
+    border-radius: 10%;
+    width: 30em;
+    display: block;
+}
+#box1 {
+    background-color: rgb(255, 130, 151);
+}
+#box2 {
+    background-color: red;
+}
+#box3 {
+    background-color: yellow;
+}
+#box4 {
+    background-color: aqua;
+}
+.image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: fuchsia;
+    position: absolute;
+    left: 7em;
+}
+h1 {
+    color: blueviolet;
+}
+.original {
+    color: deeppink;
+}
+.additional {
+    color: chartreuse;
+}
+#show1 {
+    color: aqua;
+}
+#show2 {
+    color: blue;
+}
+#show3 {
+    color: brown;
+}
+#show4 {
+    color: crimson;
+}
+#show5 {
+    color: darkgreen;
+}
+ul {
+    color: gold;
+}
+.star {
+    color: tomato;
+}
+#wars {
+    color: olive;
+}
+div {
+border: 2px solid black;
+}
